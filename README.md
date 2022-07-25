@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Myproject](https://my-drums-kit.netlify.app/)
+![Myproject](https://my-drums-kit.netlify.app/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contact Me
