@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 # About Me 👩‍💼
   
 - 👀 I am Venkat, working as system Administrator
-<!- 💻 I’m a full stack MERN developer and a content writer on Twitter -->
 - 🎓 I graduated in 2014 from AU, Chennai (B.E, ECE)
 - 🌱 I’m currently Working in On-premises Server & Cloud(AWS)
 - 💞️ Interests: Listening songs, creating content, Photo Editing, Video Editing 
