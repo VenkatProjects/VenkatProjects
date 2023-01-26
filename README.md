@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # About Me 👩‍💼
   
-- 👀 I am Venkat, working as system Administrator
+- 👀 I am Venkat, working as Cloud Platform
 - 🎓 I graduated in 2014 from AU, Chennai (B.E, ECE)
 - 🌱 I’m currently Working in On-premises Server & Cloud(AWS)
 - 💞️ Interests: Listening songs, creating content, Photo Editing, Video Editing 
