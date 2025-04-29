@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 # About Me 👩‍💼
   
-- 👀 I am Venkat, working as Cloud Platform
+- 👀 I am Venkat, working as Sr.Cloud Platform
 - 🎓 I graduated in 2014 from AU, Chennai (B.E, ECE)
-- 🌱 I’m currently Working in On-premises Server & Cloud(AWS)
+- 🌱 I’m currently Working in On-premises Server & Cloud(AWS, Azure)
 - 💞️ Interests: Listening songs, creating content, Photo Editing, Video Editing 
 
 ## Tech Stack 
